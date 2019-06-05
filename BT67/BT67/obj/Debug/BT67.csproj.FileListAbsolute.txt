@@ -1,0 +1,7 @@
+D:\Visual Studio-Project\BT67\BT67\bin\Debug\BT67.exe.config
+D:\Visual Studio-Project\BT67\BT67\bin\Debug\BT67.exe
+D:\Visual Studio-Project\BT67\BT67\bin\Debug\BT67.pdb
+D:\Visual Studio-Project\BT67\BT67\obj\Debug\BT67.csprojResolveAssemblyReference.cache
+D:\Visual Studio-Project\BT67\BT67\obj\Debug\BT67.csproj.CoreCompileInputs.cache
+D:\Visual Studio-Project\BT67\BT67\obj\Debug\BT67.exe
+D:\Visual Studio-Project\BT67\BT67\obj\Debug\BT67.pdb
